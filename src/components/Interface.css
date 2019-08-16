@@ -1,0 +1,13 @@
+.cancel {
+  background: white;
+  border: rgb(199, 199, 199) solid 2px;
+  padding: 10px;
+  margin-left: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: rgb(134, 36, 32);
+}
+.cancel:active {
+  transition: 0.2s;
+  background: rgb(243, 227, 86);
+}

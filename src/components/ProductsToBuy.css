@@ -1,0 +1,13 @@
+.buy {
+  background: white;
+  border: rgb(199, 199, 199) solid 2px;
+  padding: 10px;
+  margin-left: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: orange;
+}
+.buy:active {
+  transition: 0.2s;
+  background: rgb(204, 82, 82);
+}
